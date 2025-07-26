@@ -1,1 +1,5 @@
-# Projetos-C
+# Projetos - C
+
+- Lista
+- Pilha
+- Fila
